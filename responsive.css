@@ -1,0 +1,24 @@
+
+@media all and (max-width: 1000px) {
+  .our-team {
+    width: 50%;
+    margin-bottom: 40px;
+  }
+   .row h1 {
+    font-size: 40px;
+  }
+  .row{
+    height: 1600px;
+  }
+}
+
+
+@media all and (max-width: 670px) {
+  .our-team {
+    width: 100%;
+  }
+  .row{
+    height: 1600px;
+  }
+}
+
